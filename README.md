@@ -1,4 +1,4 @@
-# React Native CHallenge 
+# React Native Challenge 
 This repo contains project code for the Clark React Native Challenge 
 
 
