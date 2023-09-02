@@ -13,10 +13,11 @@ const Input: React.FC<InputProps> = ({ customStyle, ...props }) => {
   return (
     <TextInput
       style={[
-        { color: colors.text.secondary, borderColor: colors.border },
+        { color: colors.text.secondary, borderColor: colors.text.secondary },
         styles.input,
         customStyle,
       ]}
+      placeholderTextColor={colors.text.secondary}
       {...props}
     />
   );

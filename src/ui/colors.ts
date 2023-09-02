@@ -9,6 +9,7 @@ const ColorPalette = {
     background: '#1F2937',
     icon: '#F9FAFB',
     border: '#374151',
+    shadow: '#6B7280',
   },
   light: {
     text: {
@@ -18,6 +19,7 @@ const ColorPalette = {
     background: '#FFFFFF',
     icon: '#111827',
     border: '#D1D5DB',
+    shadow: '#F9FAFB',
   },
 };
 
