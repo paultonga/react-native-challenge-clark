@@ -1,5 +1,5 @@
 # React Native CHallenge 
-This repo contains project code for the Clark React Native CHallenge 
+This repo contains project code for the Clark React Native Challenge 
 
 
 ### How to run
